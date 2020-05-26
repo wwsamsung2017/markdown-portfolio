@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[link to github homepage](https://www.github.com)
